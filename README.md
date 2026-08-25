@@ -1,2 +1,6 @@
-# software_testing_templates
-markdown templates for testing software applications
+# Software Testing Templates
+
+Markdown templates for testing software applications:
+
+- Test Plan Template
+- Test Cases Template
